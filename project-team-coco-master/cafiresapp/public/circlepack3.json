@@ -1,0 +1,62 @@
+
+{
+    "name": "1971 - 1995",
+    "children": [
+        {
+            "name": "Arson",
+            "value": 694639.4330000001
+        },
+        {
+            "name": "Campfire",
+            "value": 109272.82199999999
+        },
+        {
+            "name": "Debris",
+            "value": 128721.74799999998
+        },
+        {
+            "name": "Equipment Use",
+            "value": 513762.845
+        },
+        {
+            "name": "Escaped Prescribed Burn",
+            "value": 5236.428
+        },
+        {
+            "name": "Lightning",
+            "value": 1425300.8939999999
+        },
+        {
+            "name": "Miscellaneous",
+            "value": 1086857.6110000003
+        },
+        {
+            "name": "Playing with Fire",
+            "value": 38608.449
+        },
+        {
+            "name": "Power Line",
+            "value": 82159.599
+        },
+        {
+            "name": "Railroad",
+            "value": 16433.614999999998
+        },
+        {
+            "name": "Smoking",
+            "value": 147410.16500000004
+        },
+        {
+            "name": "Structure",
+            "value": 38.257
+        },
+        {
+            "name": "Unknown/Unidentified",
+            "value": 2350725.8219999988
+        },
+        {
+            "name": "Vehicle",
+            "value": 37298.148
+        }
+    ]
+}
