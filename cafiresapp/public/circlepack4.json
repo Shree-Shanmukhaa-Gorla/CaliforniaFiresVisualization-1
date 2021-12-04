@@ -1,0 +1,78 @@
+
+{
+    "name": "1996 - 2020",
+    "children": [
+        {
+            "name": "Aircraft",
+            "value": 34339.257
+        },
+        {
+            "name": "Arson",
+            "value": 1406147.0389999999
+        },
+        {
+            "name": "Campfire",
+            "value": 960871.773
+        },
+        {
+            "name": "Debris",
+            "value": 372970.76300000004
+        },
+        {
+            "name": "Equipment Use",
+            "value": 1243358.0179999997
+        },
+        {
+            "name": "Escaped Prescribed Burn",
+            "value": 46644.401999999995
+        },
+        {
+            "name": "Firefighter Training",
+            "value": 3381.892
+        },
+        {
+            "name": "Illegal Alien Campfire",
+            "value": 1418.884
+        },
+        {
+            "name": "Lightning",
+            "value": 8294750.750999998
+        },
+        {
+            "name": "Miscellaneous",
+            "value": 2599056.239
+        },
+        {
+            "name": "Non-Firefighter Training",
+            "value": 11150.483
+        },
+        {
+            "name": "Playing with Fire",
+            "value": 94242.943
+        },
+        {
+            "name": "Power Line",
+            "value": 473355.39
+        },
+        {
+            "name": "Railroad",
+            "value": 78148.961
+        },
+        {
+            "name": "Smoking",
+            "value": 53884.25300000001
+        },
+        {
+            "name": "Structure",
+            "value": 5301.721999999999
+        },
+        {
+            "name": "Unknown/Unidentified",
+            "value": 3832708.407
+        },
+        {
+            "name": "Vehicle",
+            "value": 664565.736
+        }
+    ]
+}

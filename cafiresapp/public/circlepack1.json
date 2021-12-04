@@ -1,0 +1,54 @@
+
+        {
+            "name": "1920 - 1945",
+            "children": [
+                {
+                    "name": "Arson",
+                    "value": 48721.549999999996
+                },
+                {
+                    "name": "Campfire",
+                    "value": 13049.132
+                },
+                {
+                    "name": "Debris",
+                    "value": 58493.48300000001
+                },
+                {
+                    "name": "Equipment Use",
+                    "value": 68657.759
+                },
+                {
+                    "name": "Lightning",
+                    "value": 259014.961
+                },
+                {
+                    "name": "Miscellaneous",
+                    "value": 2500344.1700000004
+                },
+                {
+                    "name": "Playing with Fire",
+                    "value": 367.019
+                },
+                {
+                    "name": "Railroad",
+                    "value": 1680.94
+                },
+                {
+                    "name": "Smoking",
+                    "value": 66367.52599999998
+                },
+                {
+                    "name": "Structure",
+                    "value": 195.067
+                },
+                {
+                    "name": "Unknown/Unidentified",
+                    "value": 2885988.1459999997
+                },
+                {
+                    "name": "Vehicle",
+                    "value": 5.576
+                }
+            ]
+        }
